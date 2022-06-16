@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react_phone-catalog/static/css/main.7815e962.chunk.css",
-    "main.js": "/react_phone-catalog/static/js/main.6d0641b3.chunk.js",
-    "main.js.map": "/react_phone-catalog/static/js/main.6d0641b3.chunk.js.map",
+    "main.js": "/react_phone-catalog/static/js/main.aef495e8.chunk.js",
+    "main.js.map": "/react_phone-catalog/static/js/main.aef495e8.chunk.js.map",
     "runtime-main.js": "/react_phone-catalog/static/js/runtime-main.0e28853e.js",
     "runtime-main.js.map": "/react_phone-catalog/static/js/runtime-main.0e28853e.js.map",
     "static/css/2.cc4df3c8.chunk.css": "/react_phone-catalog/static/css/2.cc4df3c8.chunk.css",
@@ -16,9 +16,6 @@
     "static/media/Logo.a464d9e0.svg": "/react_phone-catalog/static/media/Logo.a464d9e0.svg",
     "static/media/App.scss": "/react_phone-catalog/static/media/Mont-SemiBold.8979d71a.otf",
     "static/media/accessories-cat.fcfc0e03.jpg": "/react_phone-catalog/static/media/accessories-cat.fcfc0e03.jpg",
-    "static/media/banner1.a34f00c7.jpg": "/react_phone-catalog/static/media/banner1.a34f00c7.jpg",
-    "static/media/banner2.5cd3b775.jpeg": "/react_phone-catalog/static/media/banner2.5cd3b775.jpeg",
-    "static/media/banner3.f7e7d008.jpeg": "/react_phone-catalog/static/media/banner3.f7e7d008.jpeg",
     "static/media/cart-icon.572b15c4.svg": "/react_phone-catalog/static/media/cart-icon.572b15c4.svg",
     "static/media/close.ba024a68.svg": "/react_phone-catalog/static/media/close.ba024a68.svg",
     "static/media/favourites-icon.e06f6852.svg": "/react_phone-catalog/static/media/favourites-icon.e06f6852.svg",
@@ -33,6 +30,6 @@
     "static/css/2.cc4df3c8.chunk.css",
     "static/js/2.e3f45974.chunk.js",
     "static/css/main.7815e962.chunk.css",
-    "static/js/main.6d0641b3.chunk.js"
+    "static/js/main.aef495e8.chunk.js"
   ]
 }
